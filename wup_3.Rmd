@@ -72,5 +72,5 @@ print(tukey_result)
 
 
 ## Conclusions
-
+In conclusions today we used chat gpt to make us a ggplot and then answer with what we saw on the data and explain on it for an answer. Then we answered the numerical summary and the inferential tests which we had to look at three charts.
 
